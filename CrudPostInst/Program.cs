@@ -7,7 +7,11 @@ namespace CrudPostInst
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
+            Console.WriteLine();
         }
         public static void StartedProgram()
         {
